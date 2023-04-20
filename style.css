@@ -1,0 +1,32 @@
+body{
+  font-family:Arial, sans-serif ;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+h1{
+  font-size: 24px;
+  margin: 20px;
+  width: 250px;
+  background-color:burlywood;
+  color:beige;
+  border-radius:20px;
+}
+input{
+  display: block;
+  margin: 20px;
+  background-color:burlywood;
+  color:beige;
+  cursor: pointer;
+}
+#output{
+  margin: 20px;
+}
+button{
+  margin: 20px;
+  border-radius: 50px;
+  background-color:burlywood;
+  color: beige;
+  cursor: pointer;
+  border: none;
+}
